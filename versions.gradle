@@ -1,0 +1,7 @@
+ext {
+    compileSdkVersion = 27
+    minSdkVersion = 21
+    targetSdkVersion = 27
+    kotlinVersion = '1.2.60'
+    conductorVersion = '2.1.5'
+}
